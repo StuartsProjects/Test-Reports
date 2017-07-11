@@ -1,4 +1,4 @@
-This the repository contains reports and test results for my experiments with LoRa.
+This the repository contains where you will find reports on how effctive LoRa is for long distance communications and tracking.
 
 Enjoy the read .....
 
