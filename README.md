@@ -3,5 +3,5 @@ In this repository you will find reports and tests on the effctiveness of LoRa f
 Enjoy the read .....
 
 Stuart Robinson
-LoRaTracker
+
 July 2017
